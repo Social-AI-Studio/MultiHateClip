@@ -1,4 +1,4 @@
-Video_ID	Majority_Voting	Label	Target_Victimg	Componentg	Duration
+Video_ID	Majority_Voting	Label	Target_Victim	Component	Duration
 fuUtL4mbTDU	Normal	['Normal', 'Normal']	[]	[]	[]
 ZZOSLjm0LqE	Normal	['Normal', 'Normal']	[]	[]	[]
 pQbEa24u-HM	Normal	['Normal', 'Offensive', 'Normal']	['Woman']	['Transcript', 'Metadata', 'Vision component']	[(2, 10)]
