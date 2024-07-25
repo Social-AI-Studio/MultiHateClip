@@ -1,4 +1,4 @@
-Video_ID	Majority_Voting	Label	Target_Victimg	Componentg	Duration
+Video_ID	Majority_Voting	Label	Target_Victim	Component	Duration
 BV12B4y1x7eK	Hateful	['Hateful', 'Hateful']	['Woman']	['Audio', 'Vision component', 'Transcript', 'Metadata']	[(0, 10)]
 BV1G24y187Fh	Normal	['Normal', 'Normal']	[]	[]	[]
 BV1i24y1K7iC	Normal	['Normal', 'Normal']	[]	[]	[]
