@@ -1,4 +1,4 @@
-Video_ID	Majority_Voting	Label	Target_Victimg	Componentg	Duration
+Video_ID	Majority_Voting	Label	Target_Victim	Component	Duration
 4V0KGql_fUI	Normal	['Normal', 'Normal']	[]	[]	[]
 5snzFreG79c	Offensive	['Offensive', 'Offensive']	['Couple']	['Transcript', 'Audio', 'Metadata']	[(30, 39)]
 EyE82W10wgk	Normal	['Normal', 'Counter Narrative']	[]	[]	[]
