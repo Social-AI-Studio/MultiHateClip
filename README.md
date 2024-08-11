@@ -36,7 +36,7 @@ The model performance results for Chinese are as follows:
 
 ### Announcements
 
-For public dataset, we only provide the video IDs, which can be used to identify the videos on YouTube and Bilibili. However, some high-risk videos may have been removed from the platforms. To access the full dataset, please contact han_wang@sutd.edu.sg.
+For public dataset, we only provide the video IDs, which can be used to identify the videos on YouTube and Bilibili. You can use `video_download.py` to download videos by providing the video IDs. However, some high-risk videos may have been removed from the platforms. Unfortunately, we cannot release the raw videos due to copyright restrictions. If you encounter video IDs that are not downloadable, please contact han_wang@sutd.edu.sg, and we will see if we can assist you.
 
 If you find our dataset useful, please cite the paper:
 
